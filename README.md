@@ -16,5 +16,4 @@ A console-based banking application developed using Java and OOP concepts.
 
 ## How to Run
 javac BankingSystem.java
-
 java BankingSystem
